@@ -1,0 +1,24 @@
+.card{
+    /* border: red; */
+    border-bottom: solid;
+    cursor: pointer;
+    min-width: 50rem;
+}
+
+.content{
+    margin: 1rem;
+    padding: 2rem;
+    border-left: solid;
+    background-color: #272935;
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+}
+
+.indicator{
+    width: 5rem;
+    border: none;
+    font-size: 30px;
+}
